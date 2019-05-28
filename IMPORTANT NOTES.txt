@@ -1,0 +1,7 @@
+The application might not copile without the jars. Please install the jars from the jar folder if it does so.
+
+The application will create the result file on your desktop.
+
+In the command line:
+Firstly enter the path to the data file.
+Then the path to the report defenition file.
